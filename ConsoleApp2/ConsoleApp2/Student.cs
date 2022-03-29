@@ -44,7 +44,7 @@ namespace ConsoleApp2
         }
         public string ShowInfo()
         {
-            return $"GropNo: {this.GroupNo} - FyllName: {this.FullName} - Age: {this.Age}";
+            return $"GropNo: {this.GroupNo} - FullName: {this.FullName} - Age: {this.Age}";
         }
     }
 }
